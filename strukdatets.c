@@ -2,6 +2,8 @@
 #include <string.h>
 #include <memory.h>
 #include <stdio.h>
+// DION ANDREAS SOLANG
+// 07211940000039
 
 
 struct Node{
